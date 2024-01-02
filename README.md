@@ -1,10 +1,10 @@
 # Big-Data-project
 
 Hello everyone!
-This is for big data class presentation.
+This is for the big data class presentation.
 
-This repo contain one python file.
+This repo contains one Python file.
 
-To Do List:
-    [ ] check the .py file
+To-Do List:
+    [ ] Check the .py file
     [ ] run tests
