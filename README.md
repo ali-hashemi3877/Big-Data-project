@@ -8,4 +8,5 @@ This repo contains one Python file.
 
 ### To-Do List
 - [ ] Check the .py file
+- [ ] Check README file
 - [ ] run tests
